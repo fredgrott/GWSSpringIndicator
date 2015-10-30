@@ -19,7 +19,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSSpringIndicator:1.0.0.0@aar'
+compile 'com.github.shareme:GWSSpringIndicator:{latest-release-number}@aar'
 ```
 
 
